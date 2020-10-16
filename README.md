@@ -48,4 +48,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Copiado com ♥ by Gaive :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Copiado com ♥ by Gaive :wave: [Participe da comunidade Rocketseat!](https://discordapp.com/invite/gCRAFhc)
